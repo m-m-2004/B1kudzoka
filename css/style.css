@@ -1,4 +1,4 @@
-/* Start Global Rules100 */
+/* Start Global Rules */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -8,7 +8,6 @@
 }
 :root {
   --main-color: #e5f4fb;
-  --main-color-alt: #1787e0;
   --main-transition: 0.3s;
 }
 html {
